@@ -4,4 +4,5 @@ pytz
 Markdown==2.6.2
 celery==3.1.18
 flower
+django-paypal==0.2.5
 
